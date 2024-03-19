@@ -40,18 +40,20 @@
     "url": "https://wiki.diglib.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.diglib.org.ico",
     "slug": "dlf-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 480,
-    "timeWeek": 544,
-    "timeMonth": 544,
-    "timeYear": 544,
-    "dailyMinutesDown": {}
+    "time": 528,
+    "timeDay": 438,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
+    "dailyMinutesDown": {
+      "2024-03-19": 0
+    }
   },
   {
     "name": "Jobs",
