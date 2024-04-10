@@ -4,28 +4,30 @@
     "url": "https://www.clir.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.clir.org.ico",
     "slug": "clir",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1251,
     "timeDay": 2000,
     "timeWeek": 1702,
     "timeMonth": 1251,
     "timeYear": 1251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-10": 3
+    }
   },
   {
     "name": "DLF",
     "url": "https://www.diglib.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.diglib.org.ico",
     "slug": "dlf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 848,
@@ -33,7 +35,9 @@
     "timeWeek": 810,
     "timeMonth": 848,
     "timeYear": 848,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-10": 1
+    }
   },
   {
     "name": "DLF Wiki",
@@ -41,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.diglib.org.ico",
     "slug": "dlf-wiki",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.64%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 517,
     "timeDay": 593,
     "timeWeek": 536,
