@@ -4,18 +4,20 @@
     "url": "https://www.clir.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.clir.org.ico",
     "slug": "clir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1191,
     "timeDay": 1428,
     "timeWeek": 1147,
-    "timeMonth": 1165,
+    "timeMonth": 1169,
     "timeYear": 1191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-23": 2
+    }
   },
   {
     "name": "DLF",
@@ -31,7 +33,7 @@
     "time": 866,
     "timeDay": 1118,
     "timeWeek": 903,
-    "timeMonth": 894,
+    "timeMonth": 896,
     "timeYear": 866,
     "dailyMinutesDown": {}
   },
@@ -49,7 +51,7 @@
     "time": 510,
     "timeDay": 715,
     "timeWeek": 432,
-    "timeMonth": 512,
+    "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2024-05-18": 480,
@@ -71,7 +73,7 @@
     "time": 489,
     "timeDay": 416,
     "timeWeek": 375,
-    "timeMonth": 377,
+    "timeMonth": 361,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2024-05-18": 470
@@ -181,7 +183,7 @@
     "time": 797,
     "timeDay": 851,
     "timeWeek": 642,
-    "timeMonth": 958,
+    "timeMonth": 750,
     "timeYear": 797,
     "dailyMinutesDown": {}
   },
@@ -217,7 +219,7 @@
     "time": 462,
     "timeDay": 675,
     "timeWeek": 404,
-    "timeMonth": 475,
+    "timeMonth": 474,
     "timeYear": 462,
     "dailyMinutesDown": {}
   }
