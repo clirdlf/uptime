@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.diglib.org.ico",
     "slug": "dlf-wiki",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "98.91%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "98.92%",
     "time": 509,
     "timeDay": 511,
     "timeWeek": 493,
-    "timeMonth": 510,
+    "timeMonth": 517,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2024-05-28": 646,
@@ -67,12 +67,12 @@
     "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.52%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.27%",
     "time": 458,
     "timeDay": 357,
     "timeWeek": 361,
-    "timeMonth": 386,
+    "timeMonth": 395,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2024-05-28": 646,
@@ -174,9 +174,9 @@
     "url": "https://leadingchangeinstitute.org",
     "icon": "https://icons.duckduckgo.com/ip3/leadingchangeinstitute.org.ico",
     "slug": "leading-change-institute",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,7 +185,9 @@
     "timeWeek": 673,
     "timeMonth": 715,
     "timeYear": 769,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-28": 0
+    }
   },
   {
     "name": "NDSA",
