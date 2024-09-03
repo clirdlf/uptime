@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 875,
-    "timeDay": 792,
+    "timeDay": 734,
     "timeWeek": 883,
     "timeMonth": 907,
     "timeYear": 875,
@@ -42,9 +42,9 @@
     "slug": "dlf-wiki",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.01%",
     "time": 514,
     "timeDay": 396,
@@ -52,7 +52,6 @@
     "timeMonth": 537,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2024-09-03": 9,
       "2024-08-08": 311,
       "2024-07-29": 16,
       "2024-07-20": 483,
@@ -107,9 +106,9 @@
     "url": "https://climate-resiliency.clir.org/",
     "icon": "https://icons.duckduckgo.com/ip3/climate-resiliency.clir.org.ico",
     "slug": "climate-resiliency",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -118,7 +117,9 @@
     "timeWeek": 227,
     "timeMonth": 228,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "Digital Conferences Calendar",
