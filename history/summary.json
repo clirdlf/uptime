@@ -22,19 +22,19 @@
     "url": "https://www.diglib.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.diglib.org.ico",
     "slug": "dlf",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 657,
-    "timeWeek": 995,
-    "timeMonth": 913,
-    "timeYear": 880,
+    "time": 881,
+    "timeDay": 798,
+    "timeWeek": 1004,
+    "timeMonth": 918,
+    "timeYear": 881,
     "dailyMinutesDown": {
-      "2024-09-18": 0
+      "2024-09-18": 13
     }
   },
   {
