@@ -4,10 +4,10 @@
     "url": "https://www.clir.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.clir.org.ico",
     "slug": "clir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1132,
@@ -15,7 +15,9 @@
     "timeWeek": 1048,
     "timeMonth": 1047,
     "timeYear": 1132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-18": 1
+    }
   },
   {
     "name": "DLF",
@@ -67,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jobs.diglib.org.ico",
     "slug": "jobs",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 413,
     "timeDay": 112,
     "timeWeek": 307,
