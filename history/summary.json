@@ -76,11 +76,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jobs.diglib.org.ico",
     "slug": "jobs",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.14%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.28%",
     "time": 409,
     "timeDay": 215,
     "timeWeek": 289,
@@ -124,9 +124,9 @@
     "url": "https://climate-resiliency.clir.org/",
     "icon": "https://icons.duckduckgo.com/ip3/climate-resiliency.clir.org.ico",
     "slug": "climate-resiliency",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -136,6 +136,7 @@
     "timeMonth": 971,
     "timeYear": 546,
     "dailyMinutesDown": {
+      "2025-01-30": 0,
       "2024-09-04": 765,
       "2024-09-03": 200
     }
