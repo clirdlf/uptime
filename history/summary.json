@@ -124,9 +124,9 @@
     "url": "https://climate-resiliency.clir.org/",
     "icon": "https://icons.duckduckgo.com/ip3/climate-resiliency.clir.org.ico",
     "slug": "climate-resiliency",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -136,6 +136,7 @@
     "timeMonth": 991,
     "timeYear": 551,
     "dailyMinutesDown": {
+      "2025-02-01": 0,
       "2024-09-04": 765,
       "2024-09-03": 200
     }
