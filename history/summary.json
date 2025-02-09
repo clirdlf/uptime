@@ -199,9 +199,9 @@
     "url": "https://leadingchangeinstitute.org",
     "icon": "https://icons.duckduckgo.com/ip3/leadingchangeinstitute.org.ico",
     "slug": "leading-change-institute",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -210,7 +210,9 @@
     "timeWeek": 908,
     "timeMonth": 958,
     "timeYear": 840,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-09": 0
+    }
   },
   {
     "name": "NDSA",
@@ -235,9 +237,9 @@
     "url": "https://www.openrepositories.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.openrepositories.org.ico",
     "slug": "open-repositories",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -246,6 +248,8 @@
     "timeWeek": 650,
     "timeMonth": 793,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-09": 0
+    }
   }
 ]
