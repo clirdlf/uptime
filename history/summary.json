@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1117,
     "timeDay": 1302,
-    "timeWeek": 968,
+    "timeWeek": 1006,
     "timeMonth": 1024,
     "timeYear": 1117,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "https://www.diglib.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.diglib.org.ico",
     "slug": "dlf",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 791,
-    "timeWeek": 787,
-    "timeMonth": 863,
-    "timeYear": 877,
+    "time": 878,
+    "timeDay": 946,
+    "timeWeek": 826,
+    "timeMonth": 871,
+    "timeYear": 878,
     "dailyMinutesDown": {
-      "2025-02-12": 1
+      "2025-02-12": 6
     }
   },
   {
