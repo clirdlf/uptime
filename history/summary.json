@@ -4,19 +4,19 @@
     "url": "https://www.clir.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.clir.org.ico",
     "slug": "clir",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1119,
-    "timeDay": 958,
-    "timeWeek": 1126,
+    "time": 1118,
+    "timeDay": 988,
+    "timeWeek": 1114,
     "timeMonth": 1029,
-    "timeYear": 1119,
+    "timeYear": 1118,
     "dailyMinutesDown": {
-      "2025-02-15": 0
+      "2025-02-15": 6
     }
   },
   {
