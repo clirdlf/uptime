@@ -4,10 +4,10 @@
     "url": "https://www.clir.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.clir.org.ico",
     "slug": "clir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1117,
@@ -15,7 +15,9 @@
     "timeWeek": 1098,
     "timeMonth": 1088,
     "timeYear": 1117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 1
+    }
   },
   {
     "name": "DLF",
