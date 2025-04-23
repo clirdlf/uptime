@@ -14,7 +14,7 @@
     "timeDay": 1159,
     "timeWeek": 1216,
     "timeMonth": 1120,
-    "timeYear": 1108,
+    "timeYear": 1109,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 976,
     "timeWeek": 1045,
     "timeMonth": 934,
-    "timeYear": 894,
+    "timeYear": 895,
     "dailyMinutesDown": {}
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://climate-resiliency.clir.org/",
     "icon": "https://icons.duckduckgo.com/ip3/climate-resiliency.clir.org.ico",
     "slug": "climate-resiliency",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.81%",
     "time": 644,
-    "timeDay": 962,
-    "timeWeek": 1141,
-    "timeMonth": 1067,
+    "timeDay": 910,
+    "timeWeek": 1106,
+    "timeMonth": 1060,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2025-04-23": 1,
+      "2025-04-23": 11,
       "2024-09-04": 765,
       "2024-09-03": 200
     }
