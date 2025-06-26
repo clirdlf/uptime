@@ -44,7 +44,7 @@
     "uptime": "97.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
-    "uptimeMonth": "94.53%",
+    "uptimeMonth": "95.92%",
     "uptimeYear": "97.63%",
     "time": 541,
     "timeDay": 743,
@@ -81,7 +81,7 @@
     "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
-    "uptimeMonth": "94.53%",
+    "uptimeMonth": "95.92%",
     "uptimeYear": "97.69%",
     "time": 391,
     "timeDay": 555,
@@ -130,10 +130,10 @@
     "url": "https://climate-resiliency.clir.org/",
     "icon": "https://icons.duckduckgo.com/ip3/climate-resiliency.clir.org.ico",
     "slug": "climate-resiliency",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 702,
@@ -142,6 +142,7 @@
     "timeMonth": 1050,
     "timeYear": 843,
     "dailyMinutesDown": {
+      "2025-06-26": 1,
       "2024-09-04": 765,
       "2024-09-03": 200
     }
@@ -196,7 +197,7 @@
     "time": 723,
     "timeDay": 858,
     "timeWeek": 666,
-    "timeMonth": 622,
+    "timeMonth": 626,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2025-05-25": 16,
