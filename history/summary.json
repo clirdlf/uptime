@@ -112,19 +112,19 @@
     "url": "https://hiddencollections.africa",
     "icon": "https://icons.duckduckgo.com/ip3/hiddencollections.africa.ico",
     "slug": "hidden-collections-africa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 215,
-    "timeWeek": 219,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "timeDay": 285,
+    "timeWeek": 241,
+    "timeMonth": 204,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-06-30": 0
+      "2025-06-30": 8
     }
   },
   {
