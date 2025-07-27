@@ -6,9 +6,9 @@
     "slug": "clir",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1136,
     "timeDay": 1038,
@@ -16,7 +16,7 @@
     "timeMonth": 1174,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2025-07-27": 39
+      "2025-07-27": 46
     }
   },
   {
@@ -25,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diglib.org.ico",
     "slug": "dlf",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 907,
     "timeDay": 1081,
@@ -36,7 +36,7 @@
     "timeMonth": 1004,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2025-07-27": 32
+      "2025-07-27": 39
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "dlf-wiki",
     "status": "down",
     "uptime": "98.03%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "97.70%",
     "time": 540,
     "timeDay": 504,
@@ -56,7 +56,7 @@
     "timeMonth": 519,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-07-27": 39,
+      "2025-07-27": 46,
       "2025-07-10": 51,
       "2025-06-19": 226,
       "2025-05-27": 750,
@@ -82,19 +82,19 @@
     "url": "https://jobs.diglib.org",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.diglib.org.ico",
     "slug": "jobs",
-    "status": "down",
+    "status": "up",
     "uptime": "98.16%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "97.77%",
     "time": 377,
-    "timeDay": 296,
-    "timeWeek": 341,
-    "timeMonth": 380,
+    "timeDay": 301,
+    "timeWeek": 339,
+    "timeMonth": 378,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2025-07-27": 1,
+      "2025-07-27": 7,
       "2025-07-10": 51,
       "2025-06-19": 226,
       "2025-05-27": 750,
@@ -138,9 +138,9 @@
     "slug": "climate-resiliency",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.81%",
     "time": 750,
     "timeDay": 843,
@@ -148,7 +148,7 @@
     "timeMonth": 999,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2025-07-27": 38,
+      "2025-07-27": 45,
       "2024-09-04": 765,
       "2024-09-03": 200
     }
@@ -217,9 +217,9 @@
     "slug": "leading-change-institute",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 910,
     "timeDay": 1217,
@@ -227,7 +227,7 @@
     "timeMonth": 1034,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2025-07-27": 38,
+      "2025-07-27": 44,
       "2025-02-09": 23
     }
   },
@@ -256,9 +256,9 @@
     "slug": "open-repositories",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 642,
     "timeDay": 398,
@@ -266,7 +266,7 @@
     "timeMonth": 699,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2025-07-27": 37,
+      "2025-07-27": 44,
       "2025-02-09": 23
     }
   }
