@@ -25,9 +25,9 @@
     "url": "https://www.diglib.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.diglib.org.ico",
     "slug": "dlf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
@@ -37,6 +37,7 @@
     "timeMonth": 887,
     "timeYear": 910,
     "dailyMinutesDown": {
+      "2025-11-08": 0,
       "2025-10-30": 18,
       "2025-07-27": 581
     }
