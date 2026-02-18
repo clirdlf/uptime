@@ -4,9 +4,9 @@
     "url": "https://www.clir.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.clir.org.ico",
     "slug": "clir",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
@@ -16,6 +16,7 @@
     "timeMonth": 1023,
     "timeYear": 1156,
     "dailyMinutesDown": {
+      "2026-02-18": 0,
       "2026-01-29": 17,
       "2025-10-30": 19,
       "2025-07-27": 588
@@ -26,9 +27,9 @@
     "url": "https://www.diglib.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.diglib.org.ico",
     "slug": "dlf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
@@ -38,6 +39,7 @@
     "timeMonth": 810,
     "timeYear": 898,
     "dailyMinutesDown": {
+      "2026-02-18": 0,
       "2026-01-29": 17,
       "2025-10-30": 18,
       "2025-07-27": 581
@@ -123,9 +125,9 @@
     "url": "https://climate-resiliency.clir.org/",
     "icon": "https://icons.duckduckgo.com/ip3/climate-resiliency.clir.org.ico",
     "slug": "climate-resiliency",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
@@ -135,6 +137,7 @@
     "timeMonth": 1060,
     "timeYear": 1081,
     "dailyMinutesDown": {
+      "2026-02-18": 0,
       "2026-01-29": 17,
       "2025-07-27": 587
     }
@@ -201,9 +204,9 @@
     "url": "https://leadingchangeinstitute.org",
     "icon": "https://icons.duckduckgo.com/ip3/leadingchangeinstitute.org.ico",
     "slug": "leading-change-institute",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
@@ -213,6 +216,7 @@
     "timeMonth": 889,
     "timeYear": 1029,
     "dailyMinutesDown": {
+      "2026-02-18": 0,
       "2026-01-29": 17,
       "2025-07-27": 586
     }
@@ -223,18 +227,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ndsa.org.ico",
     "slug": "ndsa",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "7.82%",
-    "uptimeWeek": "86.83%",
-    "uptimeMonth": "95.75%",
-    "uptimeYear": "99.36%",
+    "uptime": "99.60%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "80.29%",
+    "uptimeMonth": "94.25%",
+    "uptimeYear": "99.23%",
     "time": 256,
-    "timeDay": 278,
+    "timeDay": 160,
     "timeWeek": 236,
     "timeMonth": 241,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2026-02-18": 28,
+      "2026-02-18": 687,
       "2026-02-17": 1299,
       "2026-02-01": 534,
       "2025-12-16": 1255,
@@ -246,9 +250,9 @@
     "url": "https://www.openrepositories.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.openrepositories.org.ico",
     "slug": "open-repositories",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
@@ -258,6 +262,7 @@
     "timeMonth": 666,
     "timeYear": 677,
     "dailyMinutesDown": {
+      "2026-02-18": 0,
       "2026-01-29": 17,
       "2025-07-27": 586
     }
