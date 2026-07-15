@@ -75,17 +75,17 @@
     "url": "https://wiki.diglib.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.diglib.org.ico",
     "slug": "dlf-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.62%",
-    "time": 628,
-    "timeDay": 2149,
-    "timeWeek": 1169,
-    "timeMonth": 997,
-    "timeYear": 662,
+    "time": 746,
+    "timeDay": 30614,
+    "timeWeek": 7603,
+    "timeMonth": 2812,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2025-07-27": 587,
       "2025-08-20": 29,
@@ -93,7 +93,7 @@
       "2026-04-04": 231,
       "2026-04-14": 857,
       "2026-07-13": 62,
-      "2026-07-15": 0
+      "2026-07-15": 19
     }
   },
   {
