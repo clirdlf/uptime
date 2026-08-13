@@ -4,17 +4,17 @@
     "url": "https://www.clir.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.clir.org.ico",
     "slug": "clir",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.03%",
-    "time": 1386,
-    "timeDay": 12484,
-    "timeWeek": 3917,
-    "timeMonth": 1964,
-    "timeYear": 1466,
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.02%",
+    "time": 1385,
+    "timeDay": 8637,
+    "timeWeek": 3586,
+    "timeMonth": 1932,
+    "timeYear": 1465,
     "dailyMinutesDown": {
       "2025-10-30": 19,
       "2026-01-29": 17,
@@ -35,7 +35,7 @@
       "2026-04-28": 54,
       "2026-04-30": 56,
       "2026-05-01": 90,
-      "2026-08-13": 2
+      "2026-08-13": 44
     }
   },
   {
@@ -43,17 +43,17 @@
     "url": "https://www.diglib.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.diglib.org.ico",
     "slug": "dlf",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
-    "time": 1049,
-    "timeDay": 11436,
-    "timeWeek": 3482,
-    "timeMonth": 1595,
-    "timeYear": 1074,
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.86%",
+    "time": 1048,
+    "timeDay": 7909,
+    "timeWeek": 3190,
+    "timeMonth": 1572,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2025-10-30": 18,
       "2026-01-29": 17,
@@ -67,7 +67,7 @@
       "2026-04-30": 55,
       "2026-05-01": 89,
       "2026-05-29": 62,
-      "2026-08-13": 1
+      "2026-08-13": 43
     }
   },
   {
