@@ -1,7 +1,7 @@
 url: https://www.clir.org
-status: up
-code: 200
-responseTime: 1058
-lastUpdated: 2026-08-13T23:17:38.897Z
+status: down
+code: 503
+responseTime: 2339
+lastUpdated: 2026-08-14T23:05:52.122Z
 startTime: 2024-03-13T17:14:32.313Z
 generator: Upptime <https://github.com/upptime/upptime>
