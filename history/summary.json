@@ -4,17 +4,17 @@
     "url": "https://www.clir.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.clir.org.ico",
     "slug": "clir",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "95.35%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.01%",
-    "time": 1449,
-    "timeDay": 18781,
-    "timeWeek": 5546,
-    "timeMonth": 2775,
-    "timeYear": 1557,
+    "time": 1464,
+    "timeDay": 15816,
+    "timeWeek": 6029,
+    "timeMonth": 2972,
+    "timeYear": 1578,
     "dailyMinutesDown": {
       "2025-10-30": 19,
       "2026-01-29": 17,
@@ -36,7 +36,7 @@
       "2026-04-30": 56,
       "2026-05-01": 90,
       "2026-08-13": 44,
-      "2026-09-01": 67
+      "2026-09-01": 69
     }
   },
   {
@@ -44,16 +44,16 @@
     "url": "https://www.diglib.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.diglib.org.ico",
     "slug": "dlf",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.85%",
     "time": 1055,
-    "timeDay": 472,
-    "timeWeek": 799,
-    "timeMonth": 1949,
+    "timeDay": 655,
+    "timeWeek": 824,
+    "timeMonth": 1923,
     "timeYear": 1115,
     "dailyMinutesDown": {
       "2025-10-30": 18,
@@ -69,7 +69,7 @@
       "2026-05-01": 89,
       "2026-05-29": 62,
       "2026-08-13": 43,
-      "2026-09-01": 60
+      "2026-09-01": 62
     }
   },
   {
@@ -141,17 +141,17 @@
     "url": "https://climate-resiliency.clir.org/",
     "icon": "https://icons.duckduckgo.com/ip3/climate-resiliency.clir.org.ico",
     "slug": "climate-resiliency",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "99.43%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 1311,
-    "timeDay": 1143,
-    "timeWeek": 1422,
-    "timeMonth": 1536,
-    "timeYear": 1379,
+    "time": 1313,
+    "timeDay": 1646,
+    "timeWeek": 1513,
+    "timeMonth": 1554,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2026-01-29": 17,
       "2026-02-18": 20,
@@ -164,7 +164,7 @@
       "2026-04-28": 54,
       "2026-04-30": 54,
       "2026-05-01": 51,
-      "2026-09-01": 57
+      "2026-09-01": 59
     }
   },
   {
@@ -229,17 +229,17 @@
     "url": "https://leadingchangeinstitute.org",
     "icon": "https://icons.duckduckgo.com/ip3/leadingchangeinstitute.org.ico",
     "slug": "leading-change-institute",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "99.52%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1108,
-    "timeDay": 1179,
-    "timeWeek": 1180,
-    "timeMonth": 1138,
-    "timeYear": 1124,
+    "time": 1109,
+    "timeDay": 1280,
+    "timeWeek": 1205,
+    "timeMonth": 1146,
+    "timeYear": 1125,
     "dailyMinutesDown": {
       "2026-01-29": 17,
       "2026-02-18": 20,
@@ -250,7 +250,7 @@
       "2026-04-28": 54,
       "2026-04-30": 52,
       "2026-05-01": 86,
-      "2026-09-01": 48
+      "2026-09-01": 50
     }
   },
   {
